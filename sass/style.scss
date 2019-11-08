@@ -1,0 +1,39 @@
+
+
+@import "bootstrap-4.3.1/scss/bootstrap";
+
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.top-btn{
+  margin: auto;
+}
+
+
+.my-btn{
+  display: block;
+  margin: auto;
+}
+
+.pics{
+  width: 100%;
+  margin: auto;
+
+}
+
+#map{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 40px;
+  height: 600px;
+  background: tomato;
+}
